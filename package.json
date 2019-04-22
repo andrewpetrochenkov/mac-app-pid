@@ -1,0 +1,14 @@
+{
+  "name": "mac-app-pid",
+  "version": "2019.4.15",
+  "description": "get macOS app pid",
+  "keywords": [
+    "mac",
+    "app"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/mac-app-pid",
+  "license": "Unlicense",
+  "bin": {
+    "app-pid": "./scripts/app-pid"
+  }
+}
